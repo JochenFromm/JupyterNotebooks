@@ -1,0 +1,34 @@
+﻿"Hostility Environment
+(Sanctions, treaties,..)";"Economic Crisis
+(High debt or inflation)";"Political Crisis
+(Collapse of old regime)";"Political Violence
+(Murder, Street fights)";"Humiliation Score
+(After lost war or collapse of empire)";"Stability Democratic Institutions 
+(Independent courts and free media)";Fascism;Country;Date;Comment
+0.6;1.0;1.0;1.0;1.0;-1.0;2.0;Germany;"After WWI (""humiliating defeat"")";Nazism / Treaty of Versailles
+0.5;1.0;-1.0;1.0;1.0;-1.0;2.0;Italy;"After WWI (""mutilated victory"")";Fascism / Treaty of Versailles
+0.6;1.0;1.0;0.0;1.0;-1.0;2.0;Austria-Hungary;"After WWI (""humiliating defeat"")";Nazism / Treaty of Versailles
+-1.0;1.0;-1.0;-1.0;-1.0;1.0;0;France;After WWI;
+0.3;1.0;-1.0;-1.0;0.5;0.5;1.0;Spain;After WWI;Francoism / Authoritarianism / Loss of Spanish Empire / Treaty of Paris
+-1.0;1.0;-1.0;-1.0;-1.0;1.0;0;United Kingdom;After WWI;
+-1.0;1.0;-1.0;-1.0;-1.0;1.0;0;USA;After WWI;
+-1.0;1.0;-1.0;-1.0;-1.0;1.0;0;Sweden;After WWI;
+-1.0;1.0;-1.0;-1.0;-1.0;1.0;0;Norway;After WWI;
+-1.0;1.0;-1.0;-1.0;1.0;-1.0;2.0;Russia;Affter WWI;Soviet Commuism
+0.5;1.0;1.0;1.0;-1.0;-0.5;2.0;Japan;After WWI;https://www.sup.org/books/title/?id=10405
+-1.0;-1.0;-1.0;-1.0;1.0;0.0;0;Germany;Before WWI;
+-1.0;-1.0;-1.0;-1.0;0.0;0.0;0;Italy;Before WWI;
+-1.0;-1.0;-1.0;-1.0;1.0;0.0;0;Austria-Hungary;Before WWI;
+-1.0;-1.0;-1.0;-1.0;-1.0;0.0;0;France;Before WWI;
+-1.0;-1.0;-1.0;-1.0;-1.0;1.0;0;United Kingdom;Before WWI;
+-1.0;-1.0;-1.0;-1.0;-1.0;1.0;0;USA;Before WWI;
+-1.0;-1.0;-1.0;-1.0;-1.0;1.0;0;Sweden;Before WWI;
+-1.0;-1.0;-1.0;-1.0;-1.0;1.0;0;Norway;Before WWI;
+-1.0;-1.0;-1.0;-1.0;1.0;-1.0;0;Russia;Before WWI;
+1.0;0.0;1.0;1.0;0.0;-1.0;2.0;France;After French Revolution;Bonapartism
+-1.0;-1.0;-1.0;-1.0;-1.0;-1.0;0;France;Before French Revolution;
+0.0;1.0;1.0;1.0;1.0;-1.0;1.0;Belarus;After the revolutions of 1989;Authoritarianism
+0.0;1.0;1.0;1.0;1.0;-1.0;1.0;Azerbaijan;After the revolutions of 1989;Authoritarianism
+0.0;1.0;1.0;1.0;1.0;-1.0;1.0;Russia;After the revolutions of 1989;Authoritarianism
+0.0;1.0;1.0;1.0;1.0;-1.0;1.0;Belaus;After the revolutions of 1989;Authoritarianism
+0.0;1.0;1.0;1.0;1.0;-1.0;1.0;Kazakhstan;After the revolutions of 1989;Authoritarianism
